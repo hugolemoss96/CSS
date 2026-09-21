@@ -5,3 +5,5 @@
 <p>Foi utilizado no aprendizado a estrutura HTML, a estilização CSS e a responsividade.</p>
 
 <img src="https://github.com/hugolemoss96/easy-shopping/blob/main/img/proj-computador.JPG?raw=true"/>
+<br>
+<img src="https://github.com/hugolemoss96/easy-shopping/blob/main/img/proj-celular.JPG?raw=true"/>
